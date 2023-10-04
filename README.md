@@ -1,6 +1,14 @@
 # Cipherium
 A simple info stealer, remotely controlable from an replit server.
 
+# Features
+* Workspace Stealer
+* User Data (`IP, PC Name`)
+* Cheat DLL Stealer (`dx9ware`, `scriptware`)
+* Process List Stealer
+* Desktop Screenshot
+* Discord Token Stealer
+
 # Instructions
 * Download the project
 * Go to Program.cs
