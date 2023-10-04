@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\Cipherium.exe.config
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\Cipherium.exe
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\Cipherium.pdb
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\obj\Debug\Cipherium.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\obj\Debug\Cipherium.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\obj\Debug\Cipherium.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\obj\Debug\Cipherium.csproj.CopyComplete
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\obj\Debug\Cipherium.exe
+C:\Users\Alex\Documents\discordtools\Cipherium\Cipherium\obj\Debug\Cipherium.pdb
