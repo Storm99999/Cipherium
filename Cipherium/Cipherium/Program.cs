@@ -16,7 +16,7 @@ namespace Cipherium
     internal class Program
     {
         public static string Hook = "";
-        public static string Server = "https://thrtufh.gog-best.repl.co";
+        public static string Server = "replit here";
         public static string LastAction = "NO_ACTION";
         public static WebClient webClient = new WebClient();
 
